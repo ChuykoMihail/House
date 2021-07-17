@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8" />
+        <meta property="og:site_name" content="Elica-Store.ru" />
+<meta property="og:title" content="Главная" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://elica-store.ru/" />
+<meta property="og:image" content="https://s1.elica-store.ru/content/00/01/1/6261a7d61613803887/thumb-box_320x320_6261a7d61613803887.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="description" content="Уникальные вытяжки для кухни, эксклюзивный дизайн на вашей кухне. Низкие цены, множество скидок и акций. Быстрая доставка в любую точку России." />
+<meta name="keywords" content="кухонная вытяжка Elica Элика официальный сайт купить цена кухня производитель доставка Москва Россия каталог недорого каталог стоимость итальянская" />
+<meta name="yandex-verification" content="488a58dbd2112ee2" />
+<meta name="google-site-verification" content="WtPz2uZ3bx77aYq8SroGUpOoLCn4LiTe9mV1K1teOeM" />
+<meta name="mailru-verification" content="e954153cfb405ad9" />
+<meta name="wmail-verification" content="9e15c0058ad026b35f32fa040f8f05c9" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/icons/mstile-144x144.png" />
+<meta name="msapplication-config" content="/icons/browserconfig.xml" />
+<meta name="theme-color" content="#ffffff" />
+<link sizes="180x180" rel="apple-touch-icon" href="/icons/apple-touch-icon-180x180.png" />
+<link sizes="32x32" rel="icon" type="image/png" href="/icons/favicon-32x32.png" />
+<link sizes="192x192" rel="icon" type="image/png" href="/icons/android-chrome-192x192.png" />
+<link sizes="16x16" rel="icon" type="image/png" href="/icons/favicon-16x16.png" />
+<link rel="manifest" href="/icons/site.webmanifest" />
+<link rel="mask-icon" href="/icons/safari-pinned-tab.svg" />
+<link rel="shortcut icon" href="/icons/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/assets/f248c55b/css/bootstrap.min.css?v=1623047956" />
+<link rel="stylesheet" type="text/css" href="/assets/52858946/css/jquery.jcarousel.min.css?v=1623047956" />
+<link rel="stylesheet" type="text/css" href="/assets/5d0fccd/site_bootstrap.css?v=1623047956" />
+<title>Кухонные вытяжки Elica - Фирменный интернет-магазин!</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-rim-auto-match" content="none">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="format-detection" content="address=no">
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+    </head>
+    <body><script type="text/javascript">
+/*<![CDATA[*/
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+                (window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js', 'ym')
+                ym(28122336, 'init', {'id':'28122336','clickmap':true,'trackLinks':true,'accurateTrackBounce':true,'webvisor':true,'ecommerce':'dataLayerYandex'});
+window.addYandexGoal = function(target){ym(28122336,'reachGoal', target);};
+window.dataLayerYandex = window.dataLayerYandex || [];
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MXP73XD');
+/*]]>*/
+</script>
+
+            <script type="application/ld+json">
+            {
+               "@context": "http://schema.org",
+               "@type": "WebSite",
+               "url": "https://elica-store.ru",
+               "potentialAction": {
+                 "@type": "SearchAction",
+                 "target": "https://elica-store.ru/search?q={search_term_string}",
+                 "query-input": "required name=search_term_string"
+               }
+            }
+            </script><header id="header" class="container-fluid border-bottom">
+    <div class="row justify-content-between bg-light">
+        <nav class="col-auto flex-shrink-1 px-0 order-0">
+            <ul class="nav h-100" id="yw0">
+<li class="nav-item h-100 d-inline-flex"><a class="nav-link text-body d-flex align-items-center" href="/about">О компании</a></li>
+<li class="nav-item h-100 d-inline-flex"><a class="nav-link text-body d-flex align-items-center" href="/dostavka-tovara">Доставка</a></li>
+<li class="nav-item h-100 d-inline-flex"><a class="nav-link text-body d-flex align-items-center" href="/action">Акции</a></li>
+<li class="nav-item h-100 d-inline-flex"><a class="nav-link text-body d-flex align-items-center" href="/news">Новости</a></li>
+<li class="nav-item h-100 d-inline-flex"><a class="nav-link text-body d-flex align-items-center" href="/warranty">Гарантия</a></li>
+<li class="nav-item h-100 d-inline-flex"><a class="nav-link text-body d-flex align-items-center" href="/contacts">Контакты</a></li>
+</ul>        </nav>
+        <div class="col-auto flex-shrink-1 d-inline-flex align-items-center order-1 order-xl-2 basket-icon" id="basket-icon1" v-cloak="1"><!--noindex--><div color="text-secondary"><svg width="40" height="40" fill="#72665a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-basket"></use></svg><span class="ml-2">{{totalCount}}</span></div><!--/noindex--></div>    </div>
+    <div id="header-search-form" class="row py-1 bg-light collapse" role="search"><form class="col-12 input-group dropdown" action="/search" method="get"><div class="input-group-prepend dropdown"><button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn input-group-text">?</button><div class="dropdown-menu" /><h6 class="dropdown-header d-none d-md-block">Для поиска можно использовать следующий синтаксис:</h6>
+<dl class="form-row dropdown-item-text d-flex">
+    <dt class="col-sm-3">+слово</dt>
+    <dd class="col-sm-9">слово должно присутствовать в каждом возвращенном наименовании</dd>
+    <dt class="col-sm-3">-слово</dt>
+    <dd class="col-sm-9">слово должно отсутствовать во всех найденых наименованиях</dd>
+    <dt class="col-sm-3">&gt;слово</dt>
+    <dd class="col-sm-9">Повышает вес слова</dd>
+    <dt class="col-sm-3">&lt;слово</dt>
+    <dd class="col-sm-9">Понижает вес слова</dd>
+    <dt class="col-sm-3">&quot;фраза&quot;</dt>
+    <dd class="col-sm-9">Фраза целиком</dd>
+</dl></div></div><input required="required" placeholder="Поиск" class="border-0 form-control bg-white text-body" autocomplete="off" id="simple-search-form2-field" type="search" value="" name="q" /><div class="input-group-append"><button type="submit" class="input-group-text border-0 bg-white btn"><svg width="25" height="25" fill="#72665a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-search"></use></svg></button></div></form></div>    <div class="row align-items-center bg-white py-3">
+        <div class="col-5 col-md-3 col-lg-4 col-xl-2 py-2 text-dark text-center logo" itemscope="itemscope" itemtype="http://schema.org/Organization"><div style="display:none"><meta itemprop="name" content="ООО &quot;Спектр&quot;" /><span itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress"><span itemprop="postalCode">127299</span><span itemprop="addressLocality">Россия, Москва</span><span itemprop="streetAddress">ул. Клары Цеткин, д. 18, к. 3, этаж антресоль 1, помещ./ком. XVIIA/1</span></span><div itemprop="telephone">+7 (495) 369-30-29</div><div itemprop="contactPoint" itemscope="itemscope" itemtype="http://schema.org/ContactPoint"><div itemprop="telephone" content="+7 495 369-30-29">+7 (495) 369-30-29</div><meta itemprop="contactType" content="sales" /></div><div itemprop="telephone">8 (800) 700-84-93</div><div itemprop="contactPoint" itemscope="itemscope" itemtype="http://schema.org/ContactPoint"><div itemprop="telephone" content="+7 800 700-84-93">8 (800) 700-84-93</div><meta itemprop="contactType" content="sales" /></div><div itemprop="telephone">+7 (812) 319-39-67</div><div itemprop="contactPoint" itemscope="itemscope" itemtype="http://schema.org/ContactPoint"><div itemprop="telephone" content="+7 812 319-39-67">+7 (812) 319-39-67</div><meta itemprop="contactType" content="sales" /></div></div><img loading="lazy" class="img-fluid" width="250" itemprop="logo" src="//s1.elica-store.ru/logoobject/00/00/0/bea7e45b1585727561/bea7e45b1585727561.svg" alt="Главная страница" /><link itemprop="url" href="https://elica-store.ru" /></div>        <div class="col-auto col-xl-8 d-flex align-items-center justify-content-center flex-grow-1 text-center" id="phones-block3"><a class="text-dark pr-xl-4 text-center d-inline-block align-top mr-4" href="tel:+7-495-369-30-29"><span><text-dark class="d-block mb-2">Телефон в Москве</text-dark></span><div class="lead font-weight-bold">+7 (495) 369-30-29</div></a><a class="text-dark pr-xl-4 text-center d-inline-block align-top" href="tel:+7-800-700-84-93"><span><text-dark class="d-block mb-2">Бесплатно для регионов</text-dark></span><div class="lead font-weight-bold">8 (800) 700-84-93</div></a><a class="d-inline-block" rel="nofollow" title="Заказать звонок" data-toggle="tooltip" data-placement="bottom" href="/feedback"><img width="100" height="36" src="/assets/5d0fccd/images/icon_order_call_2.svg" alt="Заказать звонок" /></a></div>        <div class="col-2 col-md-1 col-xl-2 flex-grow-1 order-3 order-1 text-right text-xl-right pl-0">
+            <button class="btn px-0 search-lens" type="button" data-toggle="collapse" data-target="#header-search-form">
+                <svg width="34" height="34" fill="#72665a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-search"></use></svg>            </button>
+        </div>
+    </div>
+</header>
+<div class="container-fluid">
+    <nav class="row jcarousel init" id="yw2"><ul class="col-12 d-flex justify-content-around text-center text-nowrap" id="yw1">
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Встраиваемые" href="/elica-vstraivaemie-vityazhki"><img title="Встраиваемые" src="//s1.elica-store.ru/category/00/05/5/9077eef31612944181/9077eef31612944181.png" alt="Встраиваемые вытяжки ELICA" /><span>Встраиваемые</span></a></li>
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Наклонные" href="/elica-naklonnie-vityazhki"><img title="Наклонные" src="//s1.elica-store.ru/category/00/03/3/aa6518da1612944222/aa6518da1612944222.png" alt="Наклонные вытяжки ELICA" /><span>Наклонные</span></a></li>
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Без купола" href="/elica-vityazhki-bez-kupola"><img title="Без купола" src="//s1.elica-store.ru/category/00/02/2/3b9177d91612944253/3b9177d91612944253.png" alt="Вытяжки ELICA без купола" /><span>Без купола</span></a></li>
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Островные и угловые" href="/elica-ostrovnie-vityazhki"><img title="Островные и угловые" src="//s1.elica-store.ru/category/00/06/6/1d98bfd01612945335/1d98bfd01612945335.png" alt="Островные и угловые вытяжки ELICA" /><span>Островные и угловые</span></a></li>
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Купольные" href="/elica-kupolnie-vityazhki"><img title="Купольные" src="//s1.elica-store.ru/category/00/01/1/0cb7b5b01612945418/0cb7b5b01612945418.png" alt="Купольные Вытяжки ELICA" /><span>Купольные</span></a></li>
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Кантри" href="/elica-vityazhki-kantri"><img title="Кантри" src="//s1.elica-store.ru/category/00/04/4/d9abf76f1612945444/d9abf76f1612945444.png" alt="Вытяжки ELICA в стиле Кантри" /><span>Кантри</span></a></li>
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Подвесные" href="/elica-podvesnie-vityazhki"><img title="Подвесные" src="//s1.elica-store.ru/category/00/08/8/d62810e41612945472/d62810e41612945472.png" alt="Подвесные вытяжки ELICA" /><span>Подвесные</span></a></li>
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Варочные панели" href="/elica-varochnye-paneli"><img title="Варочные панели" src="//s1.elica-store.ru/category/00/14/14/4de394e21612945509/4de394e21612945509.png" alt="ELICA варочные панели" /><span>Варочные панели</span></a></li>
+<li class="mx-2 d-inline-block align-bottom"><a class="d-block text-decoration-none text-nowrap text-center" title="Аксессуары" href="/elica-aksessuari"><img title="Аксессуары" src="//s1.elica-store.ru/category/00/09/9/20f577311612945572/20f577311612945572.png" alt="Аксессуары ELICA" /><span>Аксессуары</span></a></li>
+</ul><a hidden="hidden" data-target="yw2" class="jcarousel-control jcarousel-control-prev" href="#"><svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-prev-arrow"></use></svg></a><a hidden="hidden" data-target="yw2" class="jcarousel-control jcarousel-control-next" href="#"><svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-next-arrow"></use></svg></a></nav></div>
+
+    
+    <div data-ride="carousel" class="mb-3 mt-3 slide carousel-fade w-100 carousel" id="bootstrap-carousel0" data-count="7"><ol class="carousel-indicators"><li class="rounded-circle active" data-slide-to="0" data-target="#bootstrap-carousel0"></li><li class="rounded-circle" data-slide-to="1" data-target="#bootstrap-carousel0"></li><li class="rounded-circle" data-slide-to="2" data-target="#bootstrap-carousel0"></li><li class="rounded-circle" data-slide-to="3" data-target="#bootstrap-carousel0"></li><li class="rounded-circle" data-slide-to="4" data-target="#bootstrap-carousel0"></li><li class="rounded-circle" data-slide-to="5" data-target="#bootstrap-carousel0"></li><li class="rounded-circle" data-slide-to="6" data-target="#bootstrap-carousel0"></li></ol><div class="carousel-inner"><div class="carousel-item active"><picture><source srcset="//s1.elica-store.ru/content/00/01/1/6f8711b61605513675/thumb_320x320_6f8711b61605513675.jpg" media="(max-width: 320px)" /><source srcset="//s1.elica-store.ru/content/00/01/1/6f8711b61605513675/thumb_500x500_6f8711b61605513675.jpg" media="(max-width: 500px)" /><img title="Моментальный CashBack - экономия до 15%" loading="lazy" class="img-fluid w-100 d-block" src="//s1.elica-store.ru/content/00/01/1/6f8711b61605513675/6f8711b61605513675.jpg" alt="Моментальный CashBack - экономия до 15%" /></picture><div class="slider-detail"><span>Моментальный CashBack - экономия до 15%</span><p class="d-md-none d-xl-block">Спецусловия при заказе от 50 000р</p></div></div><div class="carousel-item"><picture><source srcset="//s1.elica-store.ru/content/00/01/1/cc0b29b31605513750/thumb_320x320_cc0b29b31605513750.jpg" media="(max-width: 320px)" /><source srcset="//s1.elica-store.ru/content/00/01/1/cc0b29b31605513750/thumb_500x500_cc0b29b31605513750.jpg" media="(max-width: 500px)" /><img title="ВАРОЧНАЯ ПАНЕЛЬ С ИНТЕГРИРОВАННОЙ ВЫТЯЖКОЙ" loading="lazy" class="img-fluid w-100 d-block" src="//s1.elica-store.ru/content/00/01/1/cc0b29b31605513750/cc0b29b31605513750.jpg" alt="Вытяжка встроенная в варочную панель" /></picture><div class="slider-detail"><span>ВАРОЧНАЯ ПАНЕЛЬ С ИНТЕГРИРОВАННОЙ ВЫТЯЖКОЙ</span><p class="d-md-none d-xl-block">Передовые решения от ELICA.</p><a title="Вытяжка встроенная в варочную панель" href="/elica-varochnye-paneli">Подробнее</a></div></div><div class="carousel-item"><picture><source srcset="//s1.elica-store.ru/content/00/01/1/894866901605513958/thumb_320x320_894866901605513958.jpg" media="(max-width: 320px)" /><source srcset="//s1.elica-store.ru/content/00/01/1/894866901605513958/thumb_500x500_894866901605513958.jpg" media="(max-width: 500px)" /><img title="ОЦЕНИТЕ СОВРЕМЕННЫЙ ДИЗАЙН + ПЕРЕДОВЫЕ ТЕХНОЛОГИИ" loading="lazy" class="img-fluid w-100 d-block" src="//s1.elica-store.ru/content/00/01/1/894866901605513958/894866901605513958.jpg" alt="Elica Store" /></picture><div class="slider-detail"><span>ОЦЕНИТЕ СОВРЕМЕННЫЙ ДИЗАЙН + ПЕРЕДОВЫЕ ТЕХНОЛОГИИ</span><p class="d-md-none d-xl-block">Над дизайном ELICA работали лучшие европейские дизайн-бюро.</p><a title="Elica Store" href="/elica-vityazhki-bez-kupola">Подробнее</a></div></div><div class="carousel-item"><picture><source srcset="//s1.elica-store.ru/content/00/01/1/4ba83f291605513846/thumb_320x320_4ba83f291605513846.jpg" media="(max-width: 320px)" /><source srcset="//s1.elica-store.ru/content/00/01/1/4ba83f291605513846/thumb_500x500_4ba83f291605513846.jpg" media="(max-width: 500px)" /><img title="ОЦЕНИТЕ СОВРЕМЕННЫЙ ДИЗАЙН + ПЕРЕДОВЫЕ ТЕХНОЛОГИИ" loading="lazy" class="img-fluid w-100 d-block" src="//s1.elica-store.ru/content/00/01/1/4ba83f291605513846/4ba83f291605513846.jpg" alt="Elica Store" /></picture><div class="slider-detail"><span>ОЦЕНИТЕ СОВРЕМЕННЫЙ ДИЗАЙН + ПЕРЕДОВЫЕ ТЕХНОЛОГИИ</span><p class="d-md-none d-xl-block">Островные и угловые вытяжки. Посмотрите нашу новую коллекцию ELICA.</p><a title="Elica Store" href="https://elica-store.ru/elica-ostrovnie-vityazhki">Подробнее</a></div></div><div class="carousel-item"><picture><source srcset="//s1.elica-store.ru/content/00/01/1/6f428c301605513736/thumb_320x320_6f428c301605513736.jpg" media="(max-width: 320px)" /><source srcset="//s1.elica-store.ru/content/00/01/1/6f428c301605513736/thumb_500x500_6f428c301605513736.jpg" media="(max-width: 500px)" /><img title="СОВРЕМЕННОЕ РЕШЕНИЕ - ELICA" loading="lazy" class="img-fluid w-100 d-block" src="//s1.elica-store.ru/content/00/01/1/6f428c301605513736/6f428c301605513736.jpg" alt="СОВРЕМЕННОЕ РЕШЕНИЕ - ELICA" /></picture><div class="slider-detail"><span>СОВРЕМЕННОЕ РЕШЕНИЕ - ELICA</span><p class="d-md-none d-xl-block">Внешне незаметные вытяжки ELICA.</p><a title="СОВРЕМЕННОЕ РЕШЕНИЕ - ELICA" href="/elica-vstraivaemie-vityazhki">Подробнее</a></div></div><div class="carousel-item"><picture><source srcset="//s1.elica-store.ru/content/00/01/1/585cc92a1605517852/thumb_320x320_585cc92a1605517852.jpg" media="(max-width: 320px)" /><source srcset="//s1.elica-store.ru/content/00/01/1/585cc92a1605517852/thumb_500x500_585cc92a1605517852.jpg" media="(max-width: 500px)" /><img title="НАДЕЖНАЯ И МОЩНАЯ" loading="lazy" class="img-fluid w-100 d-block" src="//s1.elica-store.ru/content/00/01/1/585cc92a1605517852/585cc92a1605517852.jpg" alt="Вытяжка Elica без купола" /></picture><div class="slider-detail"><span>НАДЕЖНАЯ И МОЩНАЯ</span><p class="d-md-none d-xl-block">Итальянская турбина в вытяжке ELICA.</p><a title="Вытяжка Elica без купола" href="/elica-vityazhki-bez-kupola">Подробнее</a></div></div><div class="carousel-item"><picture><source srcset="//s1.elica-store.ru/content/00/01/1/b12b704d1605514146/thumb_320x320_b12b704d1605514146.jpg" media="(max-width: 320px)" /><source srcset="//s1.elica-store.ru/content/00/01/1/b12b704d1605514146/thumb_500x500_b12b704d1605514146.jpg" media="(max-width: 500px)" /><img title="КОМПАКТНОСТЬ И ПРОСТОТА" loading="lazy" class="img-fluid w-100 d-block" src="//s1.elica-store.ru/content/00/01/1/b12b704d1605514146/b12b704d1605514146.jpg" alt="КОМПАКТНОСТЬ И ПРОСТОТА" /></picture><div class="slider-detail"><span>КОМПАКТНОСТЬ И ПРОСТОТА</span><p class="d-md-none d-xl-block">Подвесные вытяжки ELICA - установка без воздуховода.</p><a title="КОМПАКТНОСТЬ И ПРОСТОТА" href="/elica-podvesnie-vityazhki">Подробнее</a></div></div></div><a class="pl-2 carousel-control-prev" role="button" data-slide="prev" href="#bootstrap-carousel0"><svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-prev-arrow"></use></svg></a><a class="pr-2 carousel-control-next" role="button" data-slide="next" href="#bootstrap-carousel0"><svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-next-arrow"></use></svg></a></div><div class="container-fluid mb-2">
+    <section class="row"><h2 class="col-12 text-center">Хиты продаж</h2><!--noindex--><div class="products-list products-list-big col-12 spektr" id="products-by-page-filter">
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-2 row-cols-xl-5 no-gutters border-top border-left"><div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/66/48/664835/ab8ad0d51601341278/thumb_200x200_ab8ad0d51601341278.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-vstraivaemie-vityazhki/vstraivaemaya-vytyazhka-elica-boxin-no-drip-ix-a-60" class="card-link stretched-link text-body" target="_blank">
+                    Встраиваемая вытяжка Elica BOXIN NO DRIP IX/A/60                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">68  990</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=348" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 2225175</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/66/48/664831/08044fd21601428279/thumb_200x200_08044fd21601428279.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-vstraivaemie-vityazhki/vstraivaemaya-vytyazhka-elica-lever-ix-a-116" class="card-link stretched-link text-body" target="_blank">
+                    Встраиваемая вытяжка Elica LEVER IX/A/116                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">41  190</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=344" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 5428399</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/elica-vityazhki-bez-kupola/vytyazhka-bez-kupola-elica-flat-glass-ix-a-90/8cb11f091516217433/thumb_200x200_8cb11f091516217433.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-vityazhki-bez-kupola/vytyazhka-bez-kupola-elica-flat-glass-ix-a-90" class="card-link stretched-link text-body" target="_blank">
+                    Вытяжка без купола Elica FLAT GLASS IX/A/90                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">17  390</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=181" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 459720</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/46/72/467222/075721101589448037/thumb_200x200_075721101589448037.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-vityazhki-bez-kupola/vytyazhka-bez-kupola-elica-haiku-wh-a-90" class="card-link stretched-link text-body" target="_blank">
+                    Вытяжка без купола Elica HAIKU WH/A/90                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">110  990</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=244" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 3489163</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/elica-naklonnie-vityazhki/naklonnaya-vytyazhka-elica-majestic-no-drip-bl-a-6/63efce951537936851/thumb_200x200_63efce951537936851.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-naklonnie-vityazhki/naklonnaya-vytyazhka-elica-majestic-no-drip-bl-a-60" class="card-link stretched-link text-body" target="_blank">
+                    Наклонная вытяжка Elica MAJESTIC NO DRIP BL/A/60                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">60  990</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=259" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 8106811</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/66/48/664832/56fab54e1601341273/thumb_200x200_56fab54e1601341273.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-vstraivaemie-vityazhki/vstraivaemaya-vytyazhka-elica-lever-ix-a-56" class="card-link stretched-link text-body" target="_blank">
+                    Встраиваемая вытяжка Elica LEVER IX/A/56                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">32  090</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=345" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 3030404</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/elica-naklonnie-vityazhki/naklonnaya-vytyazhka-elica-shire-bk-a-60/8cded3761539029553/thumb_200x200_8cded3761539029553.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-naklonnie-vityazhki/naklonnaya-vytyazhka-elica-shire-bk-a-60" class="card-link stretched-link text-body" target="_blank">
+                    Наклонная вытяжка Elica SHIRE BK/A/60                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">20  690</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=289" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 3028223</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/66/48/664842/c42ca52d1601341294/thumb_200x200_c42ca52d1601341294.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-vstraivaemie-vityazhki/vstraivaemaya-vytyazhka-elica-rules-bl-f-60" class="card-link stretched-link text-body" target="_blank">
+                    Встраиваемая вытяжка Elica RULES BL/F/60                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">51  990</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=355" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 1773851</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+            <div class="position-absolute text-left product-badges"><span class="custom"><svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-hit"></use></svg></span></div>            <img title="" class="img-fluid figure-img" src="//s1.elica-store.ru/product/57/04/570413/ba392ca71574400027/thumb_200x200_ba392ca71574400027.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-naklonnie-vityazhki/naklonnaya-vytyazhka-elica-shade-bl-a-60" class="card-link stretched-link text-body" target="_blank">
+                    Наклонная вытяжка Elica SHADE BL/A/60                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                            <div class="product-sale small">
+                    Скидка на этот товар - 22%
+                </div>
+                        <div class="product-price-wrapper lead mb-3 with-discount d-flex justify-content-between flex-wrap">
+                                    <del class="origin text-muted d-inline-block text-nowrap price">15  990 руб.</del>                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">12  490</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=320" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 8355227</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-many"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+<div class="product"><div class="card rounded-0 position-relative h-100 border-left-0 border-top-0 spektr">
+    <div class="card-body d-flex flex-column">
+        <figure class="figure d-block text-center position-relative mw-100 overflow-hidden">
+                        <img title="" loading="lazy" class="img-fluid figure-img mx-auto" src="//s1.elica-store.ru/product/elica_naklonnie_vityazhki/om_tc3_iwh_f80/6f8dd3151421150886/thumb_200x200_6f8dd3151421150886.jpg" alt="" />            <figcaption class="card-title text-center">
+                <a href="/elica-naklonnie-vityazhki/naklonnaya-vytyazhka-elica-om-touch-screen-wh-f-80" class="card-link stretched-link text-body" target="_blank">
+                    Наклонная вытяжка Elica OM TOUCH SCREEN WH/F/80                </a>
+            </figcaption>
+        </figure>
+        <div class="card-text mt-auto">
+                        <div class="product-price-wrapper lead mb-3 text-center">
+                                <div class="product-price-base font-weight-bold text-nowrap">
+                    <span class="price text-nowrap">52  355</span> руб.
+                </div>
+            </div>
+            <div class="product-basket text-center mb-3">
+                <a class="btn-sm btn-primary rounded-pill mx-auto btn btn-buy btn-outline-dark" rel="nofollow" href="/basket/add?id=477" data-url="/basket" data-label="В корзине" data-toggle-classes="btn-success btn-outline-dark" onclick="basketManager.addItem(this); return false;"><span class="spinner-border spinner-border-sm mr-2" role="status" aria-hidden="true"></span>Добавить в корзину</a>            </div>
+            <div class="text-center mb-3">
+                <small class="mx-auto">
+                    * Доставка <span class="info-delivery">бесплатно</span>                </small>
+            </div>
+            <div class="d-flex flex-wrap justify-content-between align-items-center">
+                <div class="text-nowrap strong">Код: 3266361</div>                <figure class="text-nowrap d-inline-block status m-0 align-middle" title="Товар присутствует на нашем складе в достаточном количестве
+и может быть доставлен вам на следующий день после приема заказа.
+При заказе из региона срок формирования отгрузки может составить до 10 дней." data-toggle="tooltip"><svg class="align-middle mr-1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-status-list-little"></use></svg><figcaption class="align-middle d-inline text-success">В наличии</figcaption></figure>            </div>
+                    </div>
+    </div>
+</div></div>
+</div></div><!--/noindex--></section></div>
+<div class="container-fluid">
+    <nav class="row py-3 b-block mb-4"><div class="col-8 col-md-12 col-xl-8 mb-2"><figure class="w-100 h-100 b-item mb-0 position-relative"><a title="Подвесные вытяжки ELICA" class="stretched-link d-block h-100" href="/elica-podvesnie-vityazhki"><img loading="lazy" class="w-100 h-100 img-fluid" title="Подвесные вытяжки ELICA" src="//s1.elica-store.ru/baer/00/01/1/b90f32f11605517073/b90f32f11605517073.jpg" alt="Подвесные вытяжки ELICA" /></a><figcaption class="p-2 p-sm-3 p-lg-4 w-100 position-absolute"><header class="h4 text-uppercase">Подвесные вытяжки ELICA</header>Пожалуй, лучшее решение для небольшой кухни в городской квартире.</figcaption></figure></div><div class="col-4 col-md-12 col-xl-4 mb-2"><figure class="w-100 h-100 b-item mb-0 position-relative"><a title="Классическая кухонная вытяжка ELICA" class="stretched-link d-block h-100" href="/elica-kupolnie-vityazhki"><img loading="lazy" class="w-100 h-100 img-fluid" title="Классическая кухонная вытяжка ELICA" src="//s1.elica-store.ru/baer/00/01/1/b0d89a371605517239/b0d89a371605517239.jpg" alt="Классическая кухонная вытяжка ELICA" /></a><figcaption class="p-2 p-sm-3 p-lg-4 w-100 position-absolute"><header class="h4 text-uppercase">Классическая кухонная вытяжка ELICA</header>Даже внешне простым  вещам, можно придать изюминку - встречайте новые штрихи в знакомых устройствах - цвет и мягкие формы и они остались такие же технологически совершенные.</figcaption></figure></div><div class="col-12 col-md-12 col-xl-12 mb-2"><figure class="w-100 h-100 b-item mb-0 position-relative"><a title="Настольная вытяжка ELICA" class="stretched-link d-block h-100" href="/elica-varochnye-paneli/varochnaya-panel-elica-nikolatesla-bl-f-83"><img loading="lazy" class="w-100 h-100 img-fluid" title="Настольная вытяжка ELICA" src="//s1.elica-store.ru/baer/00/01/1/8df1502a1605517074/8df1502a1605517074.jpg" alt="Настольная вытяжка ELICA" /></a><figcaption class="p-2 p-sm-3 p-lg-4 w-100 position-absolute"><header class="h4 text-uppercase">Настольная вытяжка ELICA</header>Футуристическая и функцональная, настольная кухонная вытяжка ELICA NIKOLATESLA.</figcaption></figure></div><div class="col-4 col-md-12 col-xl-4 mb-2"><figure class="w-100 h-100 b-item mb-0 position-relative"><a title="Наклонные вытяжки ELICA" class="stretched-link d-block h-100" href="/elica-naklonnie-vityazhki"><img loading="lazy" class="w-100 h-100 img-fluid" title="Наклонные вытяжки ELICA" src="//s1.elica-store.ru/baer/00/01/1/d0ad418b1605517072/d0ad418b1605517072.jpg" alt="Наклонные вытяжки ELICA" /></a><figcaption class="p-2 p-sm-3 p-lg-4 w-100 position-absolute"><header class="h4 text-uppercase">Наклонные вытяжки ELICA</header>Вытяжки, сочетающие в себе все передовые дизайнерские и технологические решения, крепятся на стену.</figcaption></figure></div><div class="col-8 col-md-12 col-xl-8 mb-2"><figure class="w-100 h-100 b-item mb-0 position-relative"><a title="Кухонные вытяжки ELICA для" class="stretched-link d-block h-100" href="/elica-ostrovnie-vityazhki?f=455:112;456:484"><img loading="lazy" class="w-100 h-100 img-fluid" title="Кухонные вытяжки ELICA для" src="//s1.elica-store.ru/baer/00/01/1/00041ac41605517073/00041ac41605517073.jpg" alt="Кухонные вытяжки ELICA для" /></a><figcaption class="p-2 p-sm-3 p-lg-4 w-100 position-absolute"><header class="h4 text-uppercase">Кухонные вытяжки ELICA для</header>Вытяжки с креплением к потолку, обеспечивают чистый воздух при нахождении варочной поверхности на отдельно стоящем столе.</figcaption></figure></div></nav>
+<div class="row mb-5 mx-auto" id="mini-news">
+    <header class="h1 text-center col-12">
+        <a class="text-decoration-none text-muted" href="/news">Новости</a>    </header>
+            <article class="media col-12 col-md-5 col-lg-3 col-xl-3 pl-xl-5 ml-2 mx-md-auto mb-4 mb-lg-0">
+            <div class="media-body mw-100">
+                <a href="/news/turbo-rezhim-v-vytyazhkakh-kak-im-polzovatsya" class="m-news">
+                    <h5>Турбо-режим в вытяжках. Как им пользоваться</h5>
+                    <p class="mb-2 text-justify">Приготовление пищи неизбежно сопряжено с появлением пара, дыма и жирных брызг. Чтобы они не оседали на всех близлежащих поверхностях, современные кухни оснащаются вытяжками</p>
+                    <div class="d-flex justify-content-between">
+                        <time datetime="2021-05-24T00:00:00" class="text-muted">24 Май 2021</time>
+                        <a href="/news/turbo-rezhim-v-vytyazhkakh-kak-im-polzovatsya" class="name">Подробнее</a>
+                    </div>
+                </a>
+            </div>
+        </article>
+            <article class="media col-12 col-md-5 col-lg-3 col-xl-3 pl-xl-5 ml-2 mx-md-auto mb-4 mb-lg-0">
+            <div class="media-body mw-100">
+                <a href="/news/mozhno-li-ispolzovat-vstraivaemuyu-varochnuyu-panel-do-ustanovki" class="m-news">
+                    <h5>Можно ли использовать встраиваемую варочную панель до установки?</h5>
+                    <p class="mb-2 text-justify">Если вы уже купили варочную поверхность, а мебель еще не привезли, возникает искушение опробовать технику еще до установки.</p>
+                    <div class="d-flex justify-content-between">
+                        <time datetime="2021-05-09T00:00:00" class="text-muted">09 Май 2021</time>
+                        <a href="/news/mozhno-li-ispolzovat-vstraivaemuyu-varochnuyu-panel-do-ustanovki" class="name">Подробнее</a>
+                    </div>
+                </a>
+            </div>
+        </article>
+            <article class="media col-12 col-md-5 col-lg-3 col-xl-3 pl-xl-5 ml-2 mx-md-auto mb-4 mb-lg-0">
+            <div class="media-body mw-100">
+                <a href="/news/kak-pochistit-naklonnuyu-vytyazhku" class="m-news">
+                    <h5>Как почистить наклонную вытяжку?</h5>
+                    <p class="mb-2 text-justify">Наклонные вытяжки часто выбирают за невероятно стильный внешний вид. Но красота моделей может раскрыться только тогда, когда хозяева обеспечивают ей регулярный уход</p>
+                    <div class="d-flex justify-content-between">
+                        <time datetime="2021-05-08T00:00:00" class="text-muted">08 Май 2021</time>
+                        <a href="/news/kak-pochistit-naklonnuyu-vytyazhku" class="name">Подробнее</a>
+                    </div>
+                </a>
+            </div>
+        </article>
+            <article class="media col-12 col-md-5 col-lg-3 col-xl-3 pl-xl-5 ml-2 mx-md-auto mb-4 mb-lg-0">
+            <div class="media-body mw-100">
+                <a href="/news/obyazatelno-li-priobretat-doroguyu-vytyazhku" class="m-news">
+                    <h5>Обязательно ли приобретать дорогую вытяжку?</h5>
+                    <p class="mb-2 text-justify">Нужна ли вытяжка на кухне? Пользователи, у которых установлен воздухоочиститель Elica, ответят на этот вопрос единогласно и утвердительно.</p>
+                    <div class="d-flex justify-content-between">
+                        <time datetime="2021-05-07T00:00:00" class="text-muted">07 Май 2021</time>
+                        <a href="/news/obyazatelno-li-priobretat-doroguyu-vytyazhku" class="name">Подробнее</a>
+                    </div>
+                </a>
+            </div>
+        </article>
+        <div class="col-12 mt-3 text-right">
+        <a class="h4" href="/news">Все новости компании ></a>    </div>
+</div>
+
+</div>
+<main class="container">
+    <section class="row">
+        <h1 class="col-12 text-center">
+                    </h1>
+        <div class="col-12">
+            <main class="container-xl"><section class="row">
+    <h1 class="col-12">Фирменный магазин кухонных вытяжек Elica</h1><div class="st-content col-12"><p>Интернет-магазин фирменной итальянской бытовой техники «Elica-store» предложит Вашему вниманию широкий спектр кухонных воздухоочистителей (вытяжек) любой мощности и дизайна.</p>
+<p>Мы выбрали компанию «Elica» своим партнёром не случайно, продукция компании пользуется заслуженным доверием покупателей в Европе и в России. 
+Производитель гарантирует качество изготовления любого прибора на самом высоком уровне. Каждый воздухоочиститель комплектуется гарантийным талоном и имеет сертификат соответствия.</p> 
+
+<picture><source srcset="//s1.elica-store.ru/content/00/01/1/6261a7d61613803887/thumb_320x320_6261a7d61613803887.jpg" media="(max-width: 400px)" /><img alt="Сертификат официального партнёра" title="Главная" loading="lazy" class="img-fluid float-none mx-auto d-block float-sm-right d-sm-inline-block my-2 mx-sm-2" width="200" src="//s1.elica-store.ru/content/00/01/1/6261a7d61613803887/6261a7d61613803887.jpg" /></picture>
+
+<span class="font-weight-bold">Мы предлагаем следующие виды кухонных вытяжек:</span>
+<ul><li> <em>Купольные</em> – монтируются к стене и выглядят в виде парашютного купола;
+</li><li> <em>Без купола</em> – монтируются к стене и воздухозаборник выглядит в виде плоскости;
+</li><li> <em>Наклонные</em> – монтируется над варочной поверхностью в 45 град. к стене;
+</li><li> <em>Встраиваемые</em> – как правило монтируются в шкаф, не имея акцента на дизайн;
+</li><li> <em>Островные</em> – монтируются к потолку, как правило посередине кухни;
+</li><li> <em>Подвесные</em> – привычные всем вытяжки для монтажа к стене;
+</li><li> <em>Угловые</em> – симбиоз купольных и без купольных, сделаны для сложной установки в угол стены.
+</li></ul>
+<p>Удобные в эксплуатации, надежные, выполненные из качественных материалов – это то, за что их любят покупатели. Вытяжками «Elica» комплектуется до 24% всех кухонных гарнитуров.</p>
+<p>В нашем магазине Вы всегда можете приобрести дополнительные аксессуары к вытяжкам «Elica», а также сменные фильтры, решетки и много другое дополнительное оборудование.</p>
+<p>Доставка выбранного Вами товара осуществляется курьерской службой (Москва и Подмосковье), в регионы России товар отправляется транспортными компаниями. Условия и порядок доставки купленного Вами товара Вы можете узнать на странице «<a href="/dostavka_tovara">Доставка</a>».</p>
+<p>Наш интернет-магазин «Elica-store» имеет возможность реализовывать продукцию не только в розницу, мы работаем с дизайн-бюро, кухонными салонами, фабриками по производству кухонь.</p>
+<p>Подключение и настройка бытовой техники, купленной на нашем специализированном сайте, осуществляется при помощи авторизованного сервисного центра, с условиями гарантийного обслуживания Вы можете ознакомиться на странице «<a href="/warranty">Гарантия</a>».</p>
+<p>Гибкие условия работы, системы скидок и бонусов помогут сделать сотрудничество приятным и взаимовыгодным.</p>
+<p>Будем рады взаимовыгодному сотрудничеству!</p></div></section>
+</main>                    </div>
+    </section>
+</main>
+
+
+<footer id="footer" class="container-fluid mt-auto pt-4">
+    <div class="row pt-3 pb-5 bg-light footer">
+        <div class="col-2 col-md-4 col-xl-2 text-center border-right">
+            <div class="col-12 px-0 logo"><img class="img-fluid" src="//s1.elica-store.ru/logoobject/00/00/0/bea7e45b1585727561/bea7e45b1585727561.svg" alt="Главная страница" /></div>            <div class="phones-block" id="phones-block4"><ol class="list-unstyled p-0 m-0 mb-1">
+            <li>
+            <a class="text-black text-nowrap" href="tel:+7-495-369-30-29">8 (495) 369-30-29</a>        </li>
+            <li>
+            <a class="text-black text-nowrap" href="tel:+7-800-700-84-93">8 (800) 700-84-93</a>        </li>
+    </ol></div>           <div class="text-center pt-3">
+                <h6 class="text-primary text-center small">Выберите Ваш регион</h6>
+                <div class="d-flex justify-content-center pb-3">
+                    <select class="w-auto d-block custom-select" id="city-selector5" name="region">
+<option value="1">Москва и область</option>
+<option value="2">СПб и область</option>
+</select>                </div>
+                <a class="text-dark text-center" target="_blank" href="/sitemap">Карта сайта</a>            </div>
+        </div>
+        <nav class="col-2 col-md-4 col-xl-2 d-flex justify-content-center bottom-menu border-right">
+            <ul class="list-unstyled">
+           <li class="text-primary h4">Меню</li>
+            <li><ul class="nav d-block" id="bottom-site-menu">
+<li class="nav-item"><a class="nav-link p-0" href="/about">О компании</a></li>
+<li class="nav-item"><a class="nav-link p-0" href="/dostavka-tovara">Доставка</a></li>
+<li class="nav-item"><a class="nav-link p-0" href="/action">Акции</a></li>
+<li class="nav-item"><a class="nav-link p-0" href="/news">Новости</a></li>
+<li class="nav-item"><a class="nav-link p-0" href="/warranty">Гарантия</a></li>
+<li class="nav-item"><a class="nav-link p-0" href="/contacts">Контакты</a></li>
+</ul></li>
+            </ul>
+        </nav>
+        <nav class="col-6 col-md-4 col-xl-6 text-dark border-right">
+            <h4 class="text-primary">Каталог товаров</h4>
+            <ul class="nav d-block" id="footer-catalog">
+<li class="nav-item d-block"><a class="nav-link p-0 text-md-wrap" href="/elica-vstraivaemie-vityazhki">Встраиваемые вытяжки</a></li>
+<li class="nav-item d-block"><a class="nav-link p-0 text-md-wrap" href="/elica-naklonnie-vityazhki/elica">Наклонные вытяжки</a></li>
+<li class="nav-item d-block"><a class="nav-link p-0 text-md-wrap" href="/elica-vityazhki-bez-kupola/elica">Вытяжки без купола</a></li>
+<li class="nav-item d-block"><a class="nav-link p-0 text-md-wrap" href="/elica-ostrovnie-vityazhki/elica">Островные вытяжки</a></li>
+<li class="nav-item d-block"><a class="nav-link p-0 text-md-wrap" href="/elica-kupolnie-vityazhki/elica">Купольные вытяжки</a></li>
+<li class="nav-item d-block"><a class="nav-link p-0 text-md-wrap" href="/elica-vityazhki-kantri">Вытяжки в стиле кантри</a></li>
+<li class="nav-item d-block"><a class="nav-link p-0 text-md-wrap" href="/news/podvesnye-vytyazhki-lyustry">Подвесные вытяжки</a></li>
+<li class="nav-item d-block"><a class="nav-link p-0 text-md-wrap" href="/elica-varochnye-paneli">Варочные панели</a></li>
+</ul>        </nav>
+        <div class="col-2 col-md-12 col-xl-2">
+            <div class="align-items-center small d-md-none d-xl-block text-dark">
+                <h4 class="text-primary">Время работы</h4>
+                                <ul class="list-unstyled text-center">
+                                        <li>Пн-Пт c 9:00 до 21:00 | Сб-Вс c 10:00 до 19:00</li>
+                                    </ul>
+            </div>
+            <div class="text-center">
+                <div class="mb-2 mt-md-2 small text-dark">Присоединяйтесь к нашим группам и получайте самые свежие новости</div>
+                <div class="row pl-3 d-flex justify-content-center  px-0 text-white"><a target="_blank" rel="nofollow" data-toggle="tooltip" class="d-block d-lg-inline-block mb-1 pr-2 mb-lg-0" href="http://vk.com/elica_store" title="Vkontakte"><svg width="30" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-vk"></use></svg></a><a target="_blank" rel="nofollow" data-toggle="tooltip" class="d-block d-lg-inline-block mb-1 pr-2 mb-lg-0" href="https://www.facebook.com/elicastore" title="Facebook"><svg width="30" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-fb"></use></svg></a><a target="_blank" rel="nofollow" data-toggle="tooltip" class="d-block d-lg-inline-block mb-1 pr-2 mb-lg-0" href="https://twitter.com/elica_store_ru" title="Twitter"><svg width="30" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-tw"></use></svg></a></div>            </div>
+        </div>
+    </div>
+</footer>
+<a id="scroll-up" hidden="hidden" class="scroll-up position-fixed" href="/" data-scroll-to="body"><svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="/assets/95018ce6/main-icon-pack.svg?v=1623047631#icon-scroll-up"></use></svg></a><div class="btn btn-info border position-fixed font-weight-bold sale-code">Код покупки:  <span id="purchase_code"></span></div>
+<!--noindex--><div class="fade modal" v-cloak="1" id="vue-modal"><div class="modal-dialog" v-bind:class="dialogClass"><div class="modal-content"><header class="modal-header"><h5 class="modal-title" v-if="title">{{title}}</h5><button class="close" type="button" data-dismiss="modal"><span>&times;</span></button></header><div class="modal-body" v-bind:is="currentBodyComponent" v-bind="bodyProperties" ref="currentBodyComponent"></div><footer class="modal-footer" v-if="currentFooterComponent" v-bind:is="currentFooterComponent" ref="currentFooterComponent">1</footer></div></div></div><!--/noindex-->
+<noscript><img style="border:0" src="https://mc.yandex.ru/watch/28122336" alt="" /></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXP73XD" width="0" height="0" style="display:none;visibility:hidden;"></iframe></noscript>
+<div style="display: none">
+<!-- Rating@Mail.ru -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2739917", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2739917;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<!-- /Rating@Mail.ru -->
+</div>
+<script type="text/javascript" src="/assets/bcddadd0/js.cookie.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/c2dd493c/jquery.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/f248c55b/js/bootstrap.bundle.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/e238ec0a/modernizr-custom.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/99a17702/js/application.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/4cd95e5a/dist/vue.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/afd1063/compare.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/ddfa2f6c/modal.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/67a3c33a/bsMistakes.min.js?v=1623047955"></script>
+<!--[if IE]>
+<script type="text/javascript" src="/assets/c91361a3/es6-promise.auto.min.js?v=1623047956"></script>
+<![endif]-->
+<!--[if IE]>
+<script type="text/javascript" src="/assets/1701acdf/fetch.js?v=1623047956"></script>
+<![endif]-->
+<script type="text/javascript" src="/assets/f488bda/basketManager.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/c074a3c7/jquery.activity.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/3efa08ef/js/autoComplete.min.js?v=1623047956" defer="defer"></script>
+<script type="text/javascript" src="/assets/13b8ce34/suggest.min.js?v=1623047956" defer="defer"></script>
+<script type="text/javascript" src="/assets/9b3a5d33/jquery.jcarousel.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/cc53055e/jquery.jcarousel-swipe.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/52858946/js/carousel.min.js?v=1623047956"></script>
+<script type="text/javascript" src="/assets/aa0121d3/ScrollUp.min.js?v=1623047956" defer="defer"></script>
+<script type="text/javascript" src="/assets/837ad02c/subscribe.js?v=1623047955"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+Application.configure({'cookieParams':{'domain':'.elica\x2Dstore.ru'},'cookieDomain':'.elica\x2Dstore.ru'});
+Application.run();
+BasketManagerSettings.data.state.sum = 0;
+BasketManagerSettings.data.state.totalCount = 0;
+BasketManagerSettings.data.state.economySum = 0;
+const basketManager = new Vue(BasketManagerSettings);
+
+pushSubscribe('/sw.js', 'BDUuUsRGImVTRwGb-AE0fqDpbVB9ka6d4iG5Nb1pK6mqxpGgDGxtegjS05pprGw1qkTWlGWprzo0ah6Vfi2L8Yw');
+$('body').activity({achieveTime:180,callBack:function(){window.addYandexGoal('3pages3minutes');}});
+const AdditionYandexMetrica = function(e){
+
+    let params, type, data = {'ecommerce': {}};
+
+    if (e.type === this.$options.events.ADD_EVENT || e.type === this.$options.events.DELETE_EVENT)
+    {
+        let offerId = e.detail.offerId, offer, count;
+
+        if (e.type === this.$options.events.ADD_EVENT) {
+            type = 'add';
+            count = e.detail.count;
+            offer = offerId ? this.indexedElements[offerId] : null;
+        } else {
+            type = 'remove';
+            offer = offerId ? e.detail.offer : null;
+            count = offer ? offer.count : null;
+        }
+
+        if (!offerId || !offer) {
+            return;
+        }
+
+        params = {'products': [{
+            id: offer.offerId,
+            name: offer.name,
+            quantity: count
+        }]};
+
+    } else if (e.type === this.$options.events.CLEAR_EVENT || e.type === this.$options.events.RECOUNT_EVENT) {
+
+        let offers = [];
+
+        if (e.type === this.$options.events.CLEAR_EVENT) {
+            type = 'remove';
+            offers = e.detail.offers;
+        } else {
+            type = 'add';
+            offers = this.elements;
+        }
+
+        params = offers.map(function(element) {
+
+            return {
+                id: element.offerId,
+                name: element.name,
+                quantity: element.count
+            };
+        });
+
+    } else {
+        return;
+    }
+
+    data['ecommerce'][type] = params;
+    window.dataLayerYandex.push(data);
+};
+basketManager.subscribe(basketManager.$options.events.ADD_EVENT, AdditionYandexMetrica);
+basketManager.subscribe(basketManager.$options.events.DELETE_EVENT, AdditionYandexMetrica);
+basketManager.subscribe(basketManager.$options.events.CLEAR_EVENT, AdditionYandexMetrica);
+basketManager.subscribe(basketManager.$options.events.RECOUNT_EVENT, AdditionYandexMetrica);
+// Start Чат на сайте
+ChatraGroupID = 'hDDYNp4xDbCPMkn35';
+(function(d, w, c) {
+    w.ChatraID = '2n8f3RtRLQ4pmyr44';
+    var s = d.createElement('script');
+    w[c] = w[c] || function() {
+        (w[c].q = w[c].q || []).push(arguments);
+    };
+    s.async = true;
+    s.src = 'https://call.chatra.io/chatra.js';
+    if (d.head) d.head.appendChild(s);
+})(document, window, 'Chatra');
+// End Чат на сайте
+
+basketManager.$mount("#basket-icon1");
+jQuery(function($) {
+(new BsMistakes({'dialogUrl':'\x2Fmistake','sendUrl':'\x2Fmistake\x2Fsend'})).init();
+$('#vue-modal').vueBsModal();
+(new Suggest('simple-search-form2-field', {'key':['name'],'url':'\x2Fsearch\x2Fsuggest','threshold':2,'resultsList':{'element':'div'},'resultItem':{'element':'a'},'searchEngine':function(query, recordValue){ return recordValue; }})).init();
+
+                $('#phones-block4').on('click', 'a[href^="tel:"]', function(){
+                    Application.addYandexGoal('click2number');
+                    Application.dataLayer({'event':'click2number'});
+                });
+            
+(new JqCarousel('yw2', {'wrap':'circular','transitions':{'transforms':Modernizr.csstransforms,'transforms3d':Modernizr.csstransforms3d,'easing':'ease'}})).init();
+(new ScrollUp('#scroll-up', {'scrollHeight':500})).init();
+});
+jQuery(window).on('load',function() {
+document.querySelector('#city-selector5').addEventListener("change", function (event) {
+    var postDeleteInit = {
+        method: 'POST',
+        credentials: 'include',
+        headers: {
+            Accept: 'plain/text'
+        }
+    };
+
+    fetch('/regions/region/change?id=' + event.target.value, postDeleteInit).then(function(response) {
+       window.location = window.location.pathname;
+    });
+});
+});
+/*]]>*/
+</script>
+</body></html>
